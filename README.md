@@ -1,0 +1,1 @@
+# nsqr-template
